@@ -203,6 +203,7 @@ img{
 #header .hamburger .bar::before{
     bottom: 8px;
 }
+
 #header .hamburger.active .bar::before{
     bottom: 0;
 }
